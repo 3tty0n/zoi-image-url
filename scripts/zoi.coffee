@@ -28,5 +28,4 @@ module.exports = (robot) ->
     "http://livedoor.blogimg.jp/anime_info555/imgs/4/2/42223da1.jpg",
     "http://livedoor.blogimg.jp/anime_info555/imgs/8/1/81c88bfe.jpg",
     "http://livedoor.blogimg.jp/anime_info555/imgs/3/4/34ef7b60.jpg",
-    "http://livedoor.blogimg.jp/anime_info555/imgs/d/b/db56d952.jpg"
-  ]
+    "http://livedoor.blogimg.jp/anime_info555/imgs/d/b/db56d952.jpg"]
