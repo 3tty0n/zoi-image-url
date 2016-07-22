@@ -16,4 +16,17 @@ module.exports = (robot) ->
     "http://blog-imgs-94.fc2.com/n/a/t/natusola/newgam222.jpg",
     "http://blog-imgs-94.fc2.com/n/a/t/natusola/newgam266.jpg",
     "http://blog-imgs-94.fc2.com/n/a/t/natusola/newgam268.jpg",
-    "http://blog-imgs-94.fc2.com/n/a/t/natusola/newgam20a.jpg"]
+    "http://blog-imgs-94.fc2.com/n/a/t/natusola/newgam20a.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/2/9/2980427d.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/b/c/bc3c018e.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/1/5/154c346c.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/9/f/9f9997ab.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/9/9/996987b7.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/1/d/1de30591.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/e/f/ef877bba.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/3/c/3c2f6ff0.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/4/2/42223da1.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/8/1/81c88bfe.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/3/4/34ef7b60.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/d/b/db56d952.jpg"
+  ]
