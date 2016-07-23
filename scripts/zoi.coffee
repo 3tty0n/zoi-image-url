@@ -28,4 +28,9 @@ module.exports = (robot) ->
     "http://livedoor.blogimg.jp/anime_info555/imgs/4/2/42223da1.jpg",
     "http://livedoor.blogimg.jp/anime_info555/imgs/8/1/81c88bfe.jpg",
     "http://livedoor.blogimg.jp/anime_info555/imgs/3/4/34ef7b60.jpg",
-    "http://livedoor.blogimg.jp/anime_info555/imgs/d/b/db56d952.jpg"]
+    "http://livedoor.blogimg.jp/anime_info555/imgs/d/b/db56d952.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/5/e/5ed41837.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/9/e/9e280a2d.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/5/9/59635abd.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/1/d/1d1c3a08.jpg",
+    "http://livedoor.blogimg.jp/anime_info555/imgs/3/c/3c2cc7f6.jpg"]
