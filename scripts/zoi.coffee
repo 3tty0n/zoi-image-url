@@ -2,9 +2,6 @@ module.exports = (robot) ->
   robot.hear /ぞい/i, (msg) ->
     msg.send msg.random [newgame3..., newgame4...]
 
-  robot.hear /がんばるぞい/i, (msg) ->
-    msg.send ["http://livedoor.blogimg.jp/anime_info555/imgs/3/c/3c42fd4b.jpg"]
-
 newgame1 = ["http://livedoor.blogimg.jp/anime_info555/imgs/6/0/60c51069.jpg",
   "http://livedoor.blogimg.jp/anime_info555/imgs/7/0/702ae3f5.jpg",
   "http://livedoor.blogimg.jp/anime_info555/imgs/c/7/c7066870.jpg",
