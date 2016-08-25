@@ -1,8 +1,10 @@
 require 'open-uri'
 require 'nokogiri'
 
+# newgame 7話
+url = 'http://blog.livedoor.jp/anime_info555/archives/1060248251.html'
 # newgame 6話
-url = 'http://blog.livedoor.jp/anime_info555/archives/1060052528.html'
+# url = 'http://blog.livedoor.jp/anime_info555/archives/1060052528.html'
 # newgame 5話
 # url = 'http://blog.livedoor.jp/anime_info555/archives/1059843360.html'
 # newgame 4話
